@@ -1,0 +1,31 @@
+{
+  "name": "js-lint-settings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "authorizer.js",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "jwks-rsa": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiichi1101/js-lint-settings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seiichi1101/js-lint-settings/issues"
+  },
+  "homepage": "https://github.com/seiichi1101/js-lint-settings#readme"
+}
